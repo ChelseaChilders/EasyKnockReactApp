@@ -1,4 +1,5 @@
 This app was created by Chelsea Childers.
+## Here is a link to a deployed version: http://ChelseaChilders.github.io/EasyKnockReactApp.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
