@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EasyKnockReactApp/static/css/main.f9dcbd1d.chunk.css",
+    "main.js": "/EasyKnockReactApp/static/js/main.43f744d5.chunk.js",
+    "main.js.map": "/EasyKnockReactApp/static/js/main.43f744d5.chunk.js.map",
+    "runtime~main.js": "/EasyKnockReactApp/static/js/runtime~main.323ac4d9.js",
+    "runtime~main.js.map": "/EasyKnockReactApp/static/js/runtime~main.323ac4d9.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/EasyKnockReactApp/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.812c32bc.chunk.js": "/EasyKnockReactApp/static/js/2.812c32bc.chunk.js",
+    "static/js/2.812c32bc.chunk.js.map": "/EasyKnockReactApp/static/js/2.812c32bc.chunk.js.map",
+    "index.html": "/EasyKnockReactApp/index.html",
+    "precache-manifest.f3c98e1cd4be97c639f668440bd77967.js": "/EasyKnockReactApp/precache-manifest.f3c98e1cd4be97c639f668440bd77967.js",
+    "service-worker.js": "/EasyKnockReactApp/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/EasyKnockReactApp/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.f9dcbd1d.chunk.css.map": "/EasyKnockReactApp/static/css/main.f9dcbd1d.chunk.css.map"
+  }
+}
